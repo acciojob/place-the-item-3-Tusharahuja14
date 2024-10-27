@@ -3,5 +3,5 @@
 .holder {
   display: flex;
   flex-wrap: wrap;         /* Ensures items wrap to the next row if needed */
-  justify-content: space-between; /* Distributes items evenly in each row */
+  justify-content: space-evenly; /* Distributes items evenly in each row */
 }
